@@ -15,6 +15,11 @@ body {
   color: #444444;
 }
 
+.todo {
+  background-color: #f9bb4b;
+  padding: 10px;
+}
+
 a {
   color: #2db9bf;
 }
