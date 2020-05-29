@@ -22,7 +22,7 @@ Teal darker - #1facb1;
 
 body {
   font-family: "Open Sans", sans-serif;
-  color: #ffffff;
+  /* color: #ffffff; */
 }
 
 #hero h1 {
