@@ -10,9 +10,27 @@ Teal darker - #1facb1;
 # General
 --------------------------------------------------------------*/
 
+@font-face {
+  font-family: "Lovelo";
+  src: url(../css/fonts/Lovelo\ Black.otf) format('opentype');
+}
+
+@font-face {
+  font-family: "AHAMONO";
+  src: url(../css/fonts/AHAMONO-Monospaced.otf) format('opentype');
+}
+
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #ffffff;
+}
+
+#hero h1 {
+  font-family: "Lovelo";
+}
+
+#hero .container h2 {
+  font-family: "AHAMONO";
 }
 
 .todo {
